@@ -1,36 +1,28 @@
-My Coding Projects
+## ATM Simulator — Java Project
 
-Welcome to my GitHub coding portfolio! I'm a Computer Science student passionate about programming, technology, and software development. This repository showcases my journey as I continue learning new programming concepts, strengthening my problem-solving skills, and building hands-on projects.
+This ATM Simulator is a console-based Java application developed using Eclipse IDE. The project simulates basic banking operations, allowing users to check their account balance, deposit money, and withdraw funds through an interactive menu.
 
-Projects
-
-Project 1: ATM Simulator (Java)
-
-A console-based ATM Simulator developed using Java in Eclipse. This application allows users to perform basic banking operations through an interactive menu.
-
-**Features:**
+## Features
 - Check account balance
-- Deposit money
-- Withdraw money
-- Prevent withdrawals with insufficient funds
+- Deposit and withdraw money
+- Prevent withdrawals when funds are insufficient
 - Validate transaction amounts
 - Perform multiple transactions in one session
+- Exit the application safely
 
-**Technologies Used:** Java, Eclipse IDE
+## Technologies Used
+- Java
+- Eclipse IDE
 
-**Programming Concepts:**
+## Programming Concepts
 - Variables and data types
-- Methods and return values
-- Conditional statements
+- Methods, parameters, and return values
+- Conditional statements (if/else)
 - Switch statements
 - While loops
 - Scanner class for user input
 - Debugging and testing
 
-**Learning Journey**
+## What I Learned
 
-Through these projects, I'm developing a stronger foundation in Java programming, logical thinking, debugging, and software development. My goal is to continue expanding my knowledge, exploring new technologies, and building increasingly advanced applications.
-
-**Upcoming Projects**
-
-More Java projects and programming challenges will be added as I continue my Computer Science journey.
+Through this project, I strengthened my understanding of Java fundamentals, particularly methods, return values, and control flow. I also gained experience debugging errors, validating user input, and organizing code into reusable methods.
